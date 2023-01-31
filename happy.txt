@@ -1,0 +1,35 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+<style> 
+body { 
+  background-image: url('https://1drv.ms/u/s!Ar6c12UACNriZx4eDxXqjyqNH_A?e=CFO70s.jpg'); 
+  background-size: cover; 
+  background-repeat: no-repeat; 
+} 
+
+h1 { 
+  text-align: center; 
+  font-size: 72px; 
+  color: white; 
+  text-shadow: 2px 2px black; 
+} 
+
+audio { 
+  display: block; 
+  margin: 0 auto; 
+} 
+</style> 
+<title>Happy Birthday</title> 
+</head> 
+<body> 
+
+<h1>Happy Birthday with Love!</h1> 
+
+<audio controls> 
+  <source src="your-song-file.mp3" type="audio/mpeg"> 
+  Your browser does not support the audio element. 
+</audio> 
+
+</body> 
+</html> 
